@@ -1,0 +1,62 @@
+body {
+  background-color: white;
+}
+
+ul {
+  list-style: none;
+}
+
+li {
+  float: right;
+  padding: 5px;
+}
+
+li a {
+  text-decoration: none;
+  color: black;
+}
+
+.logo1 {
+  height: 120px;
+  width: 150px;
+}
+
+input[type=text], select, textarea {
+  width: 100%;
+  padding: 12px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  box-sizing: border-box;
+  margin-top: 6px;
+  margin-bottom: 16px;
+  resize: vertical;
+}
+
+input[type=submit] {
+  background-color: black;
+  color: white;
+  padding: 12px 20px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.container {
+  border-radius: 6px;
+  background-color: #f2f2f2;
+  padding: 20px;
+}
+
+footer {
+  display: block;
+}
+
+a {
+  color: pink;
+}
+
+.logo2 {
+  height: 120px;
+  width: 150px;
+  float: right;
+}

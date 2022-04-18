@@ -1,0 +1,84 @@
+body {
+  background-color: black;
+}
+
+ul {
+  list-style: none;
+}
+
+li {
+  float: right;
+  padding: 5px;
+}
+
+li a {
+  text-decoration: none;
+}
+
+.logo1 {
+  height: 120px;
+  width: 150px;
+}
+
+
+h1 {
+  color: pink;
+  text-align: center;
+  padding: 5px;
+}
+
+h2 {
+  color: white;
+  font-size: 24px;
+}
+
+p {
+  color: white;
+}
+
+.cherryblossom {
+  text-align: left;
+  height: 400px;
+  width: 600px;
+}
+
+h3 {
+  color: white;
+  text-align: left;
+  font-size: 24px;
+}
+
+.samuraimuseum1 {
+  text-align: left;
+  height: 400px;
+  width: 600px;
+}
+
+h4 {
+  color: white;
+  text-align: left;
+  font-size: 24px;
+}
+
+.tokyoskytree1 {
+  text-align: left;
+  height: 400px;
+  width: 600px;
+}
+
+footer {
+  display: block;
+  position: absolute;
+  width: 100%;
+  height: 60px;
+}
+
+a {
+  color: pink;
+}
+
+.logo2 {
+  float: right;
+  height: 120px;
+  width: 150px;
+}
